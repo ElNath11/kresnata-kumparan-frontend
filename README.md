@@ -1,17 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Kumparan - Frontend Technical Assessment
 
-## Available Scripts
+## Running
 
-### `Pull Request repo berikut`
+1. git clone this repository
+2. cd to the your new directory
+3. npm install to install all dependencies (boilerplate) 
+the dependencies are  "react, react-dom, react-router-dom, react-redux, redux, redux-thunk, history, axios, lodash, redux-form"
 
-untuk Download repository 
+## NPM Task
 
-### `npm install`
-ketikan npm install pada directory file tersebut pada node.js terminal
-boilerplate yang perlu di install antara lain, react, react-dom, react-router-dom, react-redux, redux, redux-thunk, history,
-axios, lodash, redux-form
+npm start, starts the development and then your browser will be launch automatically on http://localhost:3000 
 
-setelah sudah terinstall
-
-### `npm start`
-npm start digunakan untuk menjalankan App
