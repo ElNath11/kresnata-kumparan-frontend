@@ -3,8 +3,8 @@
 ## Running
 
 1. `git clone` this repository
-2. cd to the your new directory
-3. npm install to install all dependencies (boilerplate) 
+2. `cd` to the your new directory
+3. `npm install` to install all dependencies (boilerplate) 
 the dependencies are  "react, react-dom, react-router-dom, react-redux, redux, redux-thunk, history, axios, lodash, redux-form"
 
 ## NPM Task
